@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">expensestracker</string>
+    <string name="title_activity_main">expensestracker</string>
+    <string name="package_name">ionic.expensestracker</string>
+    <string name="custom_url_scheme">ionic.expensestracker</string>
+</resources>
